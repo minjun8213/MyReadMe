@@ -36,4 +36,4 @@ void main()
   [유튜브 링크](http://www.youtube.com).<bar // <!--<br> : 개행-->
 
   <!-- 이미지 -->
-  
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/edb14b2d-563e-43a7-874d-cc04a3c957d3" />
